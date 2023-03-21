@@ -12,6 +12,8 @@ const BiggerBox = styled.div`
   justify-content: center;
   align-items: center;
   overflow: hidden;
+
+  margin-bottom: 100px;
 `;
 
 const Box = styled(motion.div)`
